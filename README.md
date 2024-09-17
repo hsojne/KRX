@@ -11,7 +11,7 @@
     - CF) General VAR(GVAR) : Average response to average shock
   - ML
 
-## Reference [Reference]
+## [Reference](https://github.com/hsojne/KRX/tree/main/reference)
   - Diebold and Yilmaz(2009, 2012, 2014) By a foundation foundation
   - Tomohiro Ando etc 3(2022)
   - Bikramaditya Ghosh atc 3(2023)
