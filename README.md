@@ -25,5 +25,5 @@
 | 4 Week | Meeting professor | - |
 | 5 Week | Structure design | - |
 | 6 Week | Consider model QVAR | - |
-| 7 Week | Write a draft | - |
+| 7 Week | Write a draft | [ING](https://github.com/hsojne/KRX/tree/main/ing) |
 
