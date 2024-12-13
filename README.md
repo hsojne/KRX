@@ -4,12 +4,13 @@
 -  Index development using spillover
 
 - Detail
-  - VAR model
+  - QVAR model
   - Three Countries Volatility
   - Consider model QVAR
     - QVAR Model : Sensitive to external values considering quantiles
     - CF) General VAR(GVAR) : Average response to average shock
   - ML
+  - Hedging
 
 ## [Reference](https://github.com/hsojne/KRX/tree/main/reference)
   - Diebold and Yilmaz(2009, 2012, 2014) By a foundation foundation
@@ -32,6 +33,8 @@
 | 11 Week | Wait for result announcement | - |
 | 12 Week | Wait for result announcement | - |
 | 13 Week | Wait for result announcement | - |
-| 13 Week | Result announcement | [^^](https://krxrnd.krx.co.kr/board/RND07010000/bbs#view=482) |
+| 14 Week | Result announcement | [^^](https://krxrnd.krx.co.kr/board/RND07010000/bbs#view=482) |
+| 15 Week | Making index | - |
+| 16 Week | Making index | - |
 
 
