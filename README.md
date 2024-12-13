@@ -35,6 +35,7 @@
 | 13 Week | Wait for result announcement | - |
 | 14 Week | Result announcement | [^^](https://krxrnd.krx.co.kr/board/RND07010000/bbs#view=482) |
 | 15 Week | Making index | - |
-| 16 Week | Making index | - |
-
+| 16 Week | Team meeting | - |
+| 17 Week | Remaking index | - |
+| 17 Week | Team meeting | - |
 
