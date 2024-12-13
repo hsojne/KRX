@@ -28,4 +28,10 @@
 | 7 Week | Write a draft | - |
 | 8 Week | Analysis data | - |
 | 9 Week | Upload | - |
+| 10 Week | Wait for result announcement | - |
+| 11 Week | Wait for result announcement | - |
+| 12 Week | Wait for result announcement | - |
+| 13 Week | Wait for result announcement | - |
+| 13 Week | Result announcement | [^^](https://krxrnd.krx.co.kr/board/RND07010000/bbs#view=482) |
+
 
