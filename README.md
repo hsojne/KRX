@@ -9,8 +9,9 @@
   - Consider model QVAR
     - QVAR Model : Sensitive to external values considering quantiles
     - CF) General VAR(GVAR) : Average response to average shock
+  - PCA
   - ML
-  - Hedging
+  - Hedge
 
 ## [Reference](https://github.com/hsojne/KRX/tree/main/reference)
   - Diebold and Yilmaz(2009, 2012, 2014) By a foundation foundation
@@ -38,4 +39,8 @@
 | 16 Week | Team meeting | - |
 | 17 Week | Remaking index | - |
 | 17 Week | Team meeting | - |
+| 18 Week | Team meeting | using PCA |
+| 19 Week | Team meeting | - |
+| 20 Week | Team meeting | - |
+
 
