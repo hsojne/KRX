@@ -39,7 +39,7 @@
 | 16 Week | Team meeting | - |
 | 17 Week | Remaking index | - |
 | 17 Week | Team meeting | - |
-| 18 Week | Team meeting | using PCA |
+| 18 Week | Team meeting | Using PCA |
 | 19 Week | Team meeting | - |
 | 20 Week | Team meeting | - |
 
