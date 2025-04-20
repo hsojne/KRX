@@ -42,5 +42,10 @@
 | 18 Week | Team meeting | Using PCA |
 | 19 Week | Team meeting | - |
 | 20 Week | Team meeting | - |
+| 21 Week | the final round | ranked number six |
+
+- おしまい。
+
+
 
 
